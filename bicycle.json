@@ -1,0 +1,9 @@
+{
+  "wheel": { "components": ["spokes", "rim", "hub", "tube", "tire"] },
+  "frame": { "components": ["main", "fork", "handlebars"] },
+  "driveTrain": { "components": ["crank", "gearset", "chain"] },
+  "brakes": { "components": ["pads", "levers", "cables", "actuator"] },
+  "shifting": {
+    "components": ["shifter", "cable", "rear derailleur", "front derailleur"]
+  }
+}
